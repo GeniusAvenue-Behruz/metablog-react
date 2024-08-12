@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "assets/imgs/grid1.svg",
+      "category": "Technology",
+      "title": "The Impact of Technology on the Workplace: How Technology is Changing",
+      "authorImage": "assets/imgs/tracey.svg",
+      "authorName": "Rajabov Behruz",
+      "date": "March 05, 2024"
+    },
+    {
+      "id": 2,
+      "imageUrl": "assets/imgs/grid2.svg",
+      "category": "Health",
+      "title": "New Advances in Biotechnology Could Change Future Health Treatments",
+      "authorImage": "assets/imgs/alex.svg",
+      "authorName": "Alex Johnson",
+      "date": "March 10, 2024"
+    },
+    {
+      "id": 3,
+      "imageUrl": "assets/imgs/grid3.svg",
+      "category": "Environment",
+      "title": "Global Efforts Increase to Combat Climate Change",
+      "authorImage": "assets/imgs/kim.svg",
+      "authorName": "Kim Lee",
+      "date": "April 01, 2024"
+    },
+    {
+      "id": 4,
+      "imageUrl": "assets/imgs/grid1.svg",
+      "category": "Technology",
+      "title": "The Impact of Technology on the Workplace: How Technology is Changing",
+      "authorImage": "assets/imgs/tracey.svg",
+      "authorName": "Rajabov Behruz",
+      "date": "March 05, 2024"
+    },
+    {
+      "id": 5,
+      "imageUrl": "assets/imgs/grid2.svg",
+      "category": "Health",
+      "title": "New Advances in Biotechnology Could Change Future Health Treatments",
+      "authorImage": "assets/imgs/alex.svg",
+      "authorName": "Alex Johnson",
+      "date": "March 10, 2024"
+    },
+    {
+      "id": 6,
+      "imageUrl": "assets/imgs/grid3.svg",
+      "category": "Environment",
+      "title": "Global Efforts Increase to Combat Climate Change",
+      "authorImage": "assets/imgs/kim.svg",
+      "authorName": "Kim Lee",
+      "date": "April 01, 2024"
+    }
+  ]
+  
